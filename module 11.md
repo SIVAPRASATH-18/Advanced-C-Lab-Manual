@@ -100,6 +100,7 @@ int main() {
 
 ```
 Output:
+
 <img width="508" height="628" alt="550733011-78e74258-99de-40e0-b031-bfeb36d9f64c" src="https://github.com/user-attachments/assets/ab8d8372-de5d-4490-a1d2-748eeb5fe560" />
 
 Result:
@@ -160,6 +161,7 @@ int main()
 
 ```
 Output:
+
 <img width="657" height="580" alt="550733078-b01f6987-993a-4d49-8a3c-46669403d142" src="https://github.com/user-attachments/assets/05ca4548-87bc-4eac-9f4a-31ef439900e4" />
 
 
@@ -211,6 +213,7 @@ int main() {
 
 ```
 Output:
+
 <img width="646" height="405" alt="550733140-03515dd5-7c12-47c1-b558-b9ea70dff5fd" src="https://github.com/user-attachments/assets/7d8431ee-1b7f-4f97-b41b-da091ae7fd25" />
 
  
@@ -274,11 +277,11 @@ int main() {
 
 ```
 Output:
+
 <img width="636" height="152" alt="550733331-4265cb6c-aaa3-461a-92f8-c96c8afbf75e" src="https://github.com/user-attachments/assets/f0871ae5-ec3b-4df6-8d2c-e3b2edee7a70" />
 
 
 
 Result:
 Thus, the program that counts the number of words in a given sentence is verified successfully.
-Thus, the program that counts the number of words in a given sentence is verified 
-successfully.
+
